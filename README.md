@@ -18,14 +18,11 @@ Hi, I'm Droso :honeybee:, my full name is _drosophila melanogaster_, a common fr
 - [x] scrolling nav
 - [x] Handwritten digit recognition. (MNIST)
 - [x] Algorithmia API, random forest classifier
-- [ ] **ajax call json file, return val**
 
 ### Phase II
-- [ ] Rebuild front-end using React, SASS
-- [ ] AWS EC2
-- [ ] Redo wings scrolling animation
+- [ ] Rebuild front-end using React, Stylus
+- [ ] Firebase
 - [ ] Replace digit data with leaves data (kaggle)
-- [ ] CNN with keras
 
 ### Phase III
 - [ ] Collect fruit images, apply labels
